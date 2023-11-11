@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihebbn&label=Profile%20views&color=0e75b6&style=flat" alt="ihebbn" /> </p>
 
-- 🌱 I’m currently learning **I’m currently learning DevOps**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **SpringBoot, Symfony, Angular**
 
